@@ -1,0 +1,81 @@
+body{
+	background:#f2f2f2;
+	font-family:'Roboto';
+	font-style:italic;
+	text-align:center;
+}
+
+
+.logo{
+	position:relative;
+	right:25px;
+}
+
+.logo1{
+	position:relative;
+	right:15px;
+}
+
+.logo2{
+	position:relative;
+	right:29px;
+}
+.logo3{
+	position:relative;
+	right:34px;
+}
+
+.list-contact li{
+  margin:16px 0;
+}
+
+.footer-article{
+ border-bottom:1px solid #AAA;
+ padding-bottom:5px;
+ margin-bottom:50px;
+}
+
+
+
+.title-article{
+	color:#273b47;
+	font-style:italic;
+	text-shadow:2px 2px 5px #AAA;
+}
+
+.btnComent{
+  border-bottom:3px solid white;
+}
+
+.loader-article{
+	position:absolute;
+	top:45%;
+}
+
+#btnSuscribete{
+  margin-left:900px;
+}
+
+.footer-model{
+	position:relative;
+	top:44px;
+}
+
+.content-title{
+  margin:0;
+}
+
+.title-form{
+	margin:0;
+}
+
+
+time{
+	color:red;
+}
+
+
+
+
+
+
